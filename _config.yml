@@ -1,0 +1,14 @@
+layout_spectrum: 0.7072442283388227
+typography_spectrum: 0.6242847961839288
+color:
+  brandStrength: 0.014121399726718664
+  lightness: 0.6540337058249861
+  saturation: 0.0244580265134573
+  rhythmicContrast: 0.9157173677813262
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: cooking
